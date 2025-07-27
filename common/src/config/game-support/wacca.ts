@@ -135,7 +135,6 @@ export const WACCA_SINGLE_CONF = {
 
 	versions: {
 		reverse: "REVERSE",
-		plus: "PLUS",
 	},
 
 	chartData: z.strictObject({
